@@ -1,0 +1,58 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+/*Styling for Header*/
+   #navbar-primary .navbar-nav {
+     width: 100%;
+     text-align: center;
+   }
+   #navbar-primary .navbar-nav > li {
+     display: inline-block;
+     float: none;
+   }
+   #navbar-primary .navbar-nav > li > a {
+     padding-left: 30px;
+     padding-right: 30px;
+   }
+
+/*Styling for header*/
+
+ul.nav.navbar-nav {
+  /*margin-top: 65px;*/
+}
+
+
+.fa-3{
+  font-size: 55px;
+  color: crimson;
+
+}
+
+body{
+  background: url('../img/bg-rb.jpg');
+}
+ .lobster{
+   font-family: 'Lobster', cursive;
+ }
+.topper{
+  color: crimson;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+}
+
+.icon-bar{
+  background-color: black;
+}
+.navbar-toggle{
+  background-color: white;
+}
+
+.borderRound{
+  border-radius: 50px;
+  color: crimson;
+}
+.borderRound:hover, .borderRound:focus{
+  color: crimson;
+}
